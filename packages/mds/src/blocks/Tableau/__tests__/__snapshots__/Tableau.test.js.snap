@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Tableau sanity checks Basic Tableau 1`] = `
+<div>
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-14 mntv-mdsGridPlusContainer-d5-0-2-16"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-15 mntv-mdsGridPlus-d11-0-2-17 mntv-addFlex-0-2-12 mntv-addFlex-d0-0-2-13"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-20 mntv-mdsGridPlusItem-d0-0-2-21 mntv-addFlex-0-2-18 mntv-addFlex-d0-0-2-19"
+      >
+        <div
+          class="mntv-contentWrapper-0-2-1"
+        >
+          <div
+            class="mntv-tableauHide-0-2-5 mntv-tableauContainer-0-2-4 mntv-desktopSize-0-2-2 mntv-desktopSize-d0-0-2-10 mntv-tableauDesktop-0-2-8"
+          />
+          <div
+            class="mntv-tableauShow-0-2-6 mntv-tableauContainer-0-2-4 mntv-nonDesktopSize-0-2-3 mntv-nonDesktopSize-d1-0-2-11 mntv-tableauNonDesktop-0-2-9"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Render Tableau sanity checks Tableau Error 1`] = `
+<div>
+  <div
+    class="mntv-errorContainer-0-2-7 mntv-desktopSize-0-2-2 mntv-desktopSize-d0-0-2-10 mntv-wrenchBox-0-2-14 mntv-wrenchBox-d0-0-2-15 mntv-wrenchSpacing-0-2-12 mntv-wrenchSpacing-d0-0-2-13"
+  >
+    <div
+      class="mntv-wrenchBox-0-2-14 mntv-wrenchBox-d1-0-2-17 mntv-wrenchSpacing-0-2-12 mntv-wrenchSpacing-d1-0-2-16"
+    >
+      <div
+        class="mntv-wrenchBox-0-2-14 mntv-wrenchBox-d2-0-2-19 mntv-wrenchSpacing-0-2-12 mntv-wrenchSpacing-d2-0-2-18"
+      >
+        <p
+          class="mntv-background-0-2-20 mntv-background-d1-0-2-24  mntv-dropCap-0-2-21 mntv-dropCap-d4-0-2-25  mntv-paragraph-0-2-22 mntv-paragraph-d5-0-2-26  mntv-paragraphTypography-0-2-23 mntv-paragraphTypography-d6-0-2-27  "
+        >
+          ERROR
+        </p>
+      </div>
+      <div
+        class="noneMarginBottom noneMarginTop nonePaddingBottom nonePaddingTop mntv-heading-0-2-28 mntv-heading-d0-0-2-31  mntv-headingSize-0-2-29 mntv-headingSize-d1-0-2-32  "
+        id=""
+      >
+        <h3>
+          Sorry, we cannot find that data visualization.
+        </h3>
+      </div>
+      <div
+        class="mntv-wrenchBox-0-2-14 mntv-wrenchBox-d3-0-2-34 mntv-wrenchSpacing-0-2-12 mntv-wrenchSpacing-d3-0-2-33"
+      >
+        <p
+          class="mntv-background-0-2-20 mntv-background-d9-0-2-35  mntv-dropCap-0-2-21 mntv-dropCap-d12-0-2-36  mntv-paragraph-0-2-22 mntv-paragraph-d13-0-2-37  mntv-paragraphTypography-0-2-23 mntv-paragraphTypography-d14-0-2-38  "
+        >
+          Please refresh your browser or check back later to see if the situation is resolved.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

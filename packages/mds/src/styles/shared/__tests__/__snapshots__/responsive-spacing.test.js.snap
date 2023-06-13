@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Basic HeadingSpacing with getMarginSpacing and getPaddingSpacing Snapshot using defaultValues 1`] = `
+<div>
+  <hr />
+  <div
+    class="gf-gfBoxWrapper-0-2-1 gf-wrenchBox-0-2-7 gf-wrenchBox-d0-0-2-8 gf-wrenchSpacing-0-2-5 gf-wrenchSpacing-d0-0-2-6"
+  >
+    <div
+      class="gf-mdsGridPlusContainer-0-2-16 gf-mdsGridPlusContainer-d5-0-2-18"
+      id=""
+    >
+      <div
+        class="gf-mdsGridPlus-0-2-17 gf-mdsGridPlus-d11-0-2-19 gf-addFlex-0-2-14 gf-addFlex-d0-0-2-15"
+      >
+        <div
+          class="gf-mdsGridPlusItem-0-2-22 gf-mdsGridPlusItem-d0-0-2-23 gf-addFlex-0-2-20 gf-addFlex-d0-0-2-21"
+        >
+          <div
+            class="xsMarginBottom mdMarginTop xsPaddingBottom mdPaddingTop gf-heading-0-2-9 gf-heading-d0-0-2-12  gf-headingSize-0-2-10 gf-headingSize-d1-0-2-13  "
+            id=""
+          >
+            <h1>
+              Responsive spacing for gf
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mntvBoxWrapper-0-2-2 mntv-wrenchBox-0-2-7 mntv-wrenchBox-d0-0-2-8 mntv-wrenchSpacing-0-2-5 mntv-wrenchSpacing-d0-0-2-6"
+  >
+    <div
+      class="mntv-mdsGridPlusContainer-0-2-16 mntv-mdsGridPlusContainer-d5-0-2-18"
+      id=""
+    >
+      <div
+        class="mntv-mdsGridPlus-0-2-17 mntv-mdsGridPlus-d11-0-2-19 mntv-addFlex-0-2-14 mntv-addFlex-d0-0-2-15"
+      >
+        <div
+          class="mntv-mdsGridPlusItem-0-2-22 mntv-mdsGridPlusItem-d0-0-2-23 mntv-addFlex-0-2-20 mntv-addFlex-d0-0-2-21"
+        >
+          <div
+            class="xsMarginBottom mdMarginTop xsPaddingBottom mdPaddingTop mntv-heading-0-2-9 mntv-heading-d0-0-2-12  mntv-headingSize-0-2-10 mntv-headingSize-d1-0-2-13  "
+            id=""
+          >
+            <h1>
+              Responsive spacing for mntv
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="smHelp-smHelpBoxWrapper-0-2-3 smHelp-wrenchBox-0-2-7 smHelp-wrenchBox-d0-0-2-8 smHelp-wrenchSpacing-0-2-5 smHelp-wrenchSpacing-d0-0-2-6"
+  >
+    <div
+      class="smHelp-mdsGridPlusContainer-0-2-16 smHelp-mdsGridPlusContainer-d5-0-2-18"
+      id=""
+    >
+      <div
+        class="smHelp-mdsGridPlus-0-2-17 smHelp-mdsGridPlus-d11-0-2-19 smHelp-addFlex-0-2-14 smHelp-addFlex-d0-0-2-15"
+      >
+        <div
+          class="smHelp-mdsGridPlusItem-0-2-22 smHelp-mdsGridPlusItem-d0-0-2-23 smHelp-addFlex-0-2-20 smHelp-addFlex-d0-0-2-21"
+        >
+          <div
+            class="xsMarginBottom mdMarginTop xsPaddingBottom mdPaddingTop smHelp-heading-0-2-9 smHelp-heading-d0-0-2-12 smHelp-headingWithLink-0-2-11 smHelp-headingSize-0-2-10 smHelp-headingSize-d1-0-2-13  "
+            id=""
+          >
+            <h1>
+              Responsive spacing for smHelp
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-smBoxWrapper-0-2-4 sm-wrenchBox-0-2-7 sm-wrenchBox-d0-0-2-8 sm-wrenchSpacing-0-2-5 sm-wrenchSpacing-d0-0-2-6"
+  >
+    <div
+      class="sm-mdsGridPlusContainer-0-2-16 sm-mdsGridPlusContainer-d5-0-2-18"
+      id=""
+    >
+      <div
+        class="sm-mdsGridPlus-0-2-17 sm-mdsGridPlus-d11-0-2-19 sm-addFlex-0-2-14 sm-addFlex-d0-0-2-15"
+      >
+        <div
+          class="sm-mdsGridPlusItem-0-2-22 sm-mdsGridPlusItem-d0-0-2-23 sm-addFlex-0-2-20 sm-addFlex-d0-0-2-21"
+        >
+          <div
+            class="xsMarginBottom mdMarginTop xsPaddingBottom mdPaddingTop sm-heading-0-2-9 sm-heading-d0-0-2-12 sm-headingWithLink-0-2-11 sm-headingSize-0-2-10 sm-headingSize-d1-0-2-13  "
+            id=""
+          >
+            <h1>
+              Responsive spacing for sm
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;

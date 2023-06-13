@@ -1,0 +1,6 @@
+.git
+.out
+coverage
+dist
+node_modules
+test_results

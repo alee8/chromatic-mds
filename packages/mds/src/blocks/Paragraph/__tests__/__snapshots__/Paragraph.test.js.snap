@@ -1,0 +1,687 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Paragraph Snapshot Basic 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot Centered 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot Direct Content 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot Replace placeholder content 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Billed $384 annually.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Billed $384 annually.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Billed $384 annually.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot Reset Margin 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-sm-gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-sm-gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-sm-gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-sm-gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-sm-gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-sm-mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-sm-mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-sm-mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-sm-mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-sm-mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Be sure to check out SurveyMonkey at Dreamforce ‘18 (booth #447) in the meantime.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot Text & Background Color 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SMHelp
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted. Tap into what the world is thinking—whenever you want at 
+          <a
+            href="/mp/market-research-surveys/"
+          >
+            Market research surveys
+          </a>
+          .
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted. Tap into what the world is thinking—whenever you want at 
+          <a
+            href="/mp/market-research-surveys/"
+          >
+            Market research surveys
+          </a>
+          .
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="smHelp-mdsGridPlusContainer-0-2-11 smHelp-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="smHelp-mdsGridPlus-0-2-12 smHelp-mdsGridPlus-d11-0-2-14 smHelp-addFlex-0-2-9 smHelp-addFlex-d0-0-2-10"
+    >
+      <div
+        class="smHelp-mdsGridPlusItem-0-2-17 smHelp-mdsGridPlusItem-d0-0-2-18 smHelp-addFlex-0-2-15 smHelp-addFlex-d0-0-2-16"
+      >
+        <p
+          class="smHelp-background-0-2-1 smHelp-background-d1-0-2-5  smHelp-dropCap-0-2-2 smHelp-dropCap-d4-0-2-6  smHelp-paragraph-0-2-3 smHelp-paragraph-d5-0-2-7  smHelp-paragraphTypography-0-2-4 smHelp-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted. Tap into what the world is thinking—whenever you want at 
+          <a
+            href="/mp/market-research-surveys/"
+          >
+            Market research surveys
+          </a>
+          .
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot Translated 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Bé~ súr~é tó~ ché~ck ó~út S~úrvé~ýMóñ~kéý ~át D~réám~fórc~é ‘1~8 (b~óóth~ #44~7) í~ñ th~é mé~áñtí~mé.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Bé~ súr~é tó~ ché~ck ó~út S~úrvé~ýMóñ~kéý ~át D~réám~fórc~é ‘1~8 (b~óóth~ #44~7) í~ñ th~é mé~áñtí~mé.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Bé~ súr~é tó~ ché~ck ó~út S~úrvé~ýMóñ~kéý ~át D~réám~fórc~é ‘1~8 (b~óóth~ #44~7) í~ñ th~é mé~áñtí~mé.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot With ALink 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Tap into what the world is thinking—whenever you want. 
+          <a
+            href="/mp/market-research-surveys/"
+          >
+            Market research surveys
+          </a>
+           make it easy to get opinions from potential and existing customers, test concepts, measure brand awareness, and more.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Tap into what the world is thinking—whenever you want. 
+          <a
+            href="/mp/market-research-surveys/"
+          >
+            Market research surveys
+          </a>
+           make it easy to get opinions from potential and existing customers, test concepts, measure brand awareness, and more.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Tap into what the world is thinking—whenever you want. 
+          <a
+            href="/mp/market-research-surveys/"
+          >
+            Market research surveys
+          </a>
+           make it easy to get opinions from potential and existing customers, test concepts, measure brand awareness, and more.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot With Dropcap 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
+
+exports[`Render Paragraph Snapshot With Indentation 1`] = `
+<div>
+  <p
+    style="font-weight: 500; padding: 10px 20px;"
+  >
+    JSS GF, JSS MNTV, JSS SM
+  </p>
+  <hr />
+  <div
+    class="gf-mdsGridPlusContainer-0-2-11 gf-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="gf-mdsGridPlus-0-2-12 gf-mdsGridPlus-d11-0-2-14 gf-addFlex-0-2-9 gf-addFlex-d0-0-2-10"
+    >
+      <div
+        class="gf-mdsGridPlusItem-0-2-17 gf-mdsGridPlusItem-d0-0-2-18 gf-addFlex-0-2-15 gf-addFlex-d0-0-2-16"
+      >
+        <p
+          class="gf-background-0-2-1 gf-background-d1-0-2-5  gf-dropCap-0-2-2 gf-dropCap-d4-0-2-6  gf-paragraph-0-2-3 gf-paragraph-d5-0-2-7  gf-paragraphTypography-0-2-4 gf-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="mntv-mdsGridPlusContainer-0-2-11 mntv-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="mntv-mdsGridPlus-0-2-12 mntv-mdsGridPlus-d11-0-2-14 mntv-addFlex-0-2-9 mntv-addFlex-d0-0-2-10"
+    >
+      <div
+        class="mntv-mdsGridPlusItem-0-2-17 mntv-mdsGridPlusItem-d0-0-2-18 mntv-addFlex-0-2-15 mntv-addFlex-d0-0-2-16"
+      >
+        <p
+          class="mntv-background-0-2-1 mntv-background-d1-0-2-5  mntv-dropCap-0-2-2 mntv-dropCap-d4-0-2-6  mntv-paragraph-0-2-3 mntv-paragraph-d5-0-2-7  mntv-paragraphTypography-0-2-4 mntv-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div
+    class="sm-mdsGridPlusContainer-0-2-11 sm-mdsGridPlusContainer-d5-0-2-13"
+  >
+    <div
+      class="sm-mdsGridPlus-0-2-12 sm-mdsGridPlus-d11-0-2-14 sm-addFlex-0-2-9 sm-addFlex-d0-0-2-10"
+    >
+      <div
+        class="sm-mdsGridPlusItem-0-2-17 sm-mdsGridPlusItem-d0-0-2-18 sm-addFlex-0-2-15 sm-addFlex-d0-0-2-16"
+      >
+        <p
+          class="sm-background-0-2-1 sm-background-d1-0-2-5  sm-dropCap-0-2-2 sm-dropCap-d4-0-2-6  sm-paragraph-0-2-3 sm-paragraph-d5-0-2-7  sm-paragraphTypography-0-2-4 sm-paragraphTypography-d6-0-2-8  "
+        >
+          Innovation is getting a lot of attention recently. Terms like disrupt, ideate, incentivize, and amplify have sprung up to describe how start-ups and enterprises alike are trying to stand out in crowded fields and create new markets for products that consumers didn’t even know they wanted.
+        </p>
+      </div>
+    </div>
+  </div>
+  <hr />
+</div>
+`;
