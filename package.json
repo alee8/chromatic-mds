@@ -24,7 +24,8 @@
     "storybook": "NODE_ENV=development start-storybook -p 50499",
     "test:coverage": "open ./coverage/lcov-report/index.html",
     "test": "jest",
-    "test-ci": "jest --ci"
+    "test-ci": "jest --ci",
+    "chromatic": "npx chromatic --project-token=chpt_0645f98641962fa"
   },
   "jest": {
     "collectCoverage": true,
@@ -128,6 +129,7 @@
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "babel-plugin-transform-require-context": "0.1.1",
     "browserslist": "4.21.5",
+    "chromatic": "6.19.5",
     "css-loader": "6.8.1",
     "default-browser-id": "2.0.0",
     "eslint": "8.41.0",
@@ -175,5 +177,8 @@
     "react-dom": "17.0.2",
     "react-jss": "10.9.0",
     "require-context": "1.1.0"
-  }
+  },
+  "version": "",
+  "readme": "ERROR: No README data found!",
+  "_id": "chromatic-mds@"
 }
